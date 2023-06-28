@@ -1,2 +1,2 @@
-# GoogleGikSearch.github.io
+# sedonya.github.io
 googlegiksearch
